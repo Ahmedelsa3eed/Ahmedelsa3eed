@@ -3,7 +3,7 @@
 
 ## Skills and Experience
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,typescript,c,c++,java,)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,typescript,Angular,java,c,git)](https://skills.thijs.gg)
 
 
 
