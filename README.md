@@ -9,12 +9,12 @@ problem solving. Seeking an internship in a professional organization to apply m
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,ts,angular,java,c,git)](https://skills.thijs.gg)
 
 ## Example of Work
-
+### [Linear Solver](https://github.com/Ahmedelsa3eed/linear-solver.git)
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=414o_cRAKyQ
 " target="_blank"><img src="http://img.youtube.com/vi/414o_cRAKyQ/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-
+### [Simple Shell](https://github.com/Ahmedelsa3eed/Simple-Shell-Multi-Processing-.git) 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ldxgQJ777TI
 " target="_blank"><img src="http://img.youtube.com/vi/ldxgQJ777TI/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
