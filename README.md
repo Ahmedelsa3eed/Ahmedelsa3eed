@@ -6,7 +6,7 @@ problem solving. Seeking an internship in a professional organization to apply m
 
 ## Skills and Experience
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,ts,angular,java,c,git)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,ts,angular,java,scala,c,git,aws)](https://skills.thijs.gg)
 
 ## Example of Work
 ### [Linear Solver](https://github.com/Ahmedelsa3eed/linear-solver.git)
