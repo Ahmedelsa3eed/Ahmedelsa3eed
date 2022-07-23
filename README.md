@@ -1,8 +1,7 @@
 # Ahmed ElSaeed
 
-## Undergraduate SWE
-Undergraduate Computer and Systems Engineering. Developed some web based applications using Java Spring Boot and Angular. Passionate about
-problem solving. Seeking an internship in a professional organization to apply my skills and knowledge.
+## Software Engineer Intern at [Master Micro](https://www.master-micro.com/)
+Undergraduate Computer and Systems Engineering at Faculty of Engineering, Alexandria University. Developed some web based applications using Java Spring Boot and Angular. Passionate about problem solving. Seeking an opportunity in a professional organization to apply my skills and knowledge.
 
 ## Skills and Experience
 
