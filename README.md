@@ -7,6 +7,8 @@ Undergraduate Computer and Systems Engineering at Faculty of Engineering, Alexan
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,ts,angular,java,scala,c,git,aws)](https://skills.thijs.gg)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedelsa3eed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Example of Work
 ### [Linear Solver](https://github.com/Ahmedelsa3eed/linear-solver.git)
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=414o_cRAKyQ
