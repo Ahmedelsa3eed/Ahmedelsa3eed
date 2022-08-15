@@ -5,7 +5,7 @@ Undergraduate Computer and Systems Engineering at Faculty of Engineering, Alexan
 
 ## Skills and Experience
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,ts,angular,java,scala,c,git,postgresql,aws)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=javascript,html,css,ts,angular,java,scala,c,git,postgresql,aws)](https://skills.thijs.gg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedelsa3eed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
