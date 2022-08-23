@@ -9,8 +9,6 @@ Undergraduate Computer and Systems Engineering at Faculty of Engineering, Alexan
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedelsa3eed&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmedelsa3eed&show_icons=true)
-
 ## Example of Work
 ### [Linear Solver](https://github.com/Ahmedelsa3eed/linear-solver.git)
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=414o_cRAKyQ
