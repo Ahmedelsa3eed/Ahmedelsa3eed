@@ -10,6 +10,11 @@ Undergraduate Computer and Systems Engineering at Faculty of Engineering, Alexan
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedelsa3eed&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Example of Work
+### [Simple Store](https://github.com/Ahmedelsa3eed/Simple-Store.git)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=414o_cRAKyQ
+" target="_blank"><img src="http://img.youtube.com/vi/lwo93YjxteY/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 ### [Linear Solver](https://github.com/Ahmedelsa3eed/linear-solver.git)
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=414o_cRAKyQ
 " target="_blank"><img src="http://img.youtube.com/vi/414o_cRAKyQ/0.jpg" 
