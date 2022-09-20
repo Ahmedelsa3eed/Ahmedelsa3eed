@@ -17,6 +17,9 @@ Undergraduate Computer and Systems Engineering at Faculty of Engineering, Alexan
 ## Top Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedelsa3eed&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
+## Stats Card
+[![Ahmedelsa3eed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmedelsa3eed&hide=stars&count_private=true&show_icons=true&theme=radical)](https://github.com/Ahmedelsa3eed/github-readme-stats)
+
 ## Example of Work
 ### [Simple Store](https://github.com/Ahmedelsa3eed/Simple-Store.git)
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=lwo93YjxteY
@@ -34,7 +37,6 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Let's connect
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/el-saeed/)
 
 ## Problem Solving 
