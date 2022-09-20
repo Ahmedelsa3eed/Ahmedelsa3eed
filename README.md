@@ -1,12 +1,20 @@
-# Ahmed ElSaeed
+# Software Engineer Intern at [Master Micro](https://www.master-micro.com/)
 
-## Software Engineer Intern at [Master Micro](https://www.master-micro.com/)
 Undergraduate Computer and Systems Engineering at Faculty of Engineering, Alexandria University.
 
-## Skills and Experience
+## Programming Language
+[![My Skills](https://skills.thijs.gg/icons?i=javascript,ts,java,scala,c)](https://skills.thijs.gg)
 
-[![My Skills](https://skills.thijs.gg/icons?i=javascript,html,css,ts,angular,java,scala,c,git,postgresql,aws)](https://skills.thijs.gg)
+## Front End
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,angular,bootstrap)](https://skills.thijs.gg)
 
+## Back End
+[![My Skills](https://skills.thijs.gg/icons?i=java,spring,mongodb,scala,postgresql)](https://skills.thijs.gg)
+
+## Other
+[![My Skills](https://skills.thijs.gg/icons?i=git,github,aws,azure,linux)](https://skills.thijs.gg)
+
+## Top Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedelsa3eed&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Example of Work
