@@ -9,7 +9,7 @@ Undergraduate Computer and Systems Engineering at Faculty of Engineering, Alexan
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,angular,bootstrap)](https://skills.thijs.gg)
 
 ## Back End
-[![My Skills](https://skills.thijs.gg/icons?i=java,spring,mongodb,scala,postgresql)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=spring,mongodb,scala,postgresql)](https://skills.thijs.gg)
 
 ## Other
 [![My Skills](https://skills.thijs.gg/icons?i=git,github,aws,azure,linux)](https://skills.thijs.gg)
