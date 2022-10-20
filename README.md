@@ -1,6 +1,8 @@
 # Software Engineer Intern at [Master Micro](https://www.master-micro.com/)
 
-Undergraduate Computer and Systems Engineering at Faculty of Engineering, Alexandria University.
+Undergraduate Computer and Systems Engineering at Faculty of Engineering, Alexandria University.  
+
+![](https://komarev.com/ghpvc/?username=Ahmedelsa3eed)
 
 ## Programming Language
 [![My Skills](https://skills.thijs.gg/icons?i=javascript,ts,java,scala,c)](https://skills.thijs.gg)
@@ -42,5 +44,3 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ## Problem Solving 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/Ahmed_sa3ed)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/am9068571/)  
-
-![](https://komarev.com/ghpvc/?username=Ahmedelsa3eed)
