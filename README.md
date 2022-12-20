@@ -1,6 +1,6 @@
 # Software Engineer Intern at [Master Micro](https://www.master-micro.com/)
 
-Undergraduate Computer and Systems Engineering at Faculty of Engineering, Alexandria University.  
+Undergraduate **CSED** at Faculty of Engineering, Alexandria University.  
 
 ![](https://komarev.com/ghpvc/?username=Ahmedelsa3eed)
 
