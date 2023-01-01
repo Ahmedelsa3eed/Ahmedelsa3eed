@@ -42,5 +42,5 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/el-saeed/)
 
 ## Problem Solving 
+[![LeetCode user am9068571](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fam9068571&logo=leetcode&logoColor=yellow)](https://leetcode.com/am9068571/)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/Ahmed_sa3ed)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/am9068571/)  
