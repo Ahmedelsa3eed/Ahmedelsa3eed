@@ -23,11 +23,6 @@ Undergraduate **CSED** at Faculty of Engineering, Alexandria University.
 [![Ahmedelsa3eed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmedelsa3eed&hide=stars&count_private=true&show_icons=true&theme=radical)](https://github.com/Ahmedelsa3eed/github-readme-stats)
 
 ## Example of Work
-### [Simple Store](https://github.com/Ahmedelsa3eed/Simple-Store.git)
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=lwo93YjxteY
-" target="_blank"><img src="http://img.youtube.com/vi/lwo93YjxteY/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
 ### [Linear Solver](https://github.com/Ahmedelsa3eed/linear-solver.git)
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=414o_cRAKyQ
 " target="_blank"><img src="http://img.youtube.com/vi/414o_cRAKyQ/0.jpg" 
@@ -38,7 +33,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 " target="_blank"><img src="http://img.youtube.com/vi/ldxgQJ777TI/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-## Let's connect
+## Connect with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/el-saeed/)
 
 ## Problem Solving 
