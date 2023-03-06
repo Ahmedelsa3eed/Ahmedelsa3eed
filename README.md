@@ -1,6 +1,4 @@
-# Software Engineer Intern at [Master Micro](https://www.master-micro.com/)
-
-Undergraduate **CSED** at Faculty of Engineering, Alexandria University.  
+# 3rd year Student **CSED** at Faculty of Engineering, Alexandria University.  
 
 ![](https://komarev.com/ghpvc/?username=Ahmedelsa3eed)
 
