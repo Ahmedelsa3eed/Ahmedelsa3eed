@@ -12,7 +12,7 @@
 [![My Skills](https://skills.thijs.gg/icons?i=spring,mongodb,nodejs,postgresql,mysql)](https://skills.thijs.gg)
 
 ## Other
-[![My Skills](https://skills.thijs.gg/icons?i=git,github,aws,azure,linux)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=git,github,aws,azure,linux,docker,kubernetes,kafka)](https://skills.thijs.gg)
 
 ## Top Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedelsa3eed&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
