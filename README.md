@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Ahmedelsa3eed)
 
 ## Programming Language
-[![My Skills](https://skills.thijs.gg/icons?i=javascript,ts,java,scala,c)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=javascript,ts,java,scala,c,python)](https://skills.thijs.gg)
 
 ## Front End
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,angular,bootstrap)](https://skills.thijs.gg)
