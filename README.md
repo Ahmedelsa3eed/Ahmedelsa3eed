@@ -1,4 +1,4 @@
-# 3rd year **CSED** Student at Faculty of Engineering, Alexandria University.
+# Senior **CSED** Student at Faculty of Engineering, Alexandria University.
 
 ![](https://komarev.com/ghpvc/?username=Ahmedelsa3eed)
 
