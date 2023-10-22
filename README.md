@@ -1,12 +1,11 @@
-# Senior **CSED** Student at Faculty of Engineering, Alexandria University.
+# Senior **CSED** Student @ Faculty of Engineering, Alexandria University.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 ![](https://komarev.com/ghpvc/?username=Ahmedelsa3eed)
-
 [![LeetCode user am9068571](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fam9068571&logo=leetcode&logoColor=yellow)](https://leetcode.com/am9068571/)  
 
 ## Languages
-[![My Skills](https://skills.thijs.gg/icons?i=java,ts,javascript,scala,c,python)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=python,java,ts,javascript,scala,c)](https://skills.thijs.gg)
 
 ## Freamworks
 [![My Skills](https://skills.thijs.gg/icons?i=spring,mongodb,nodejs,postgresql,mysql)](https://skills.thijs.gg)
