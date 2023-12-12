@@ -1,5 +1,6 @@
 # Ahmed ElSaeed
 Software Engineer <br/>Typescript | Angular | SQL <br/>Java | Python | Spring-Boot<br/>MySql | MongoDB<br/>AWS | Docker<br/>
+
 ![](https://komarev.com/ghpvc/?username=Ahmedelsa3eed)
 
 
@@ -7,9 +8,11 @@ Software Engineer <br/>Typescript | Angular | SQL <br/>Java | Python | Spring-Bo
 
 ## My values
 
-:open_hands:  **Teamwork** makes everyone stronger <br/>
+:eagle: Be a **Manager of One** <br/>
 
 :key:  Good **communication** is essential <br/>
+
+:open_hands:  **Teamwork** makes everyone stronger <br/>
 
 :hearts:  I'm eager to **learn** something new <br/>
 
