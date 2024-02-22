@@ -2,7 +2,7 @@
 Software Engineer
 
 ## About me
-My name is Ahmed, and I'm an aspiring Computer and Systems Engineering student. I'm deeply passionate about software engineering and fueled by innovation. I have a strong understanding of DevOps principles and value teamwork. I always look for ways to automate tasks and am dedicated to creating robust and efficient solutions that drive the future of technology.
+I'm an aspiring Computer and Systems Engineering student. I'm deeply passionate about software engineering and fueled by innovation. I have a strong understanding of DevOps principles and value teamwork. I always look for ways to automate tasks and am dedicated to creating robust and efficient solutions that drive the future of technology.
  
 
 ## Skill Set
