@@ -16,6 +16,7 @@ Jenkins | GitHub Actions<br/>
 ## My values
 :key:  Good **Collaboration** is essential <br/>
 :open_hands:  **Teamwork** makes everyone stronger <br/>
+📚 Willing and actively seeking to **learn**
 
 
 ## Leetcode
