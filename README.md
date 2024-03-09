@@ -6,11 +6,13 @@ I'm an aspiring Computer and Systems Engineering student. I'm deeply passionate 
  
 
 ## Skill Set
-Java | C/C++ | Python | Typescript | SQL | Bash <br/>
-Angular | Spring-Boot<br/>
-MySql | MongoDB<br/>
-AWS | Docker | kubernetes<br/>
-Jenkins | GitHub Actions<br/>
+[![My Skills](https://skills.thijs.gg/icons?i=java,c,python,ts,bash)](https://skills.thijs.gg)
+
+[![My Skills](https://skills.thijs.gg/icons?i=angular,html,css,bootstrap,spring)](https://skills.thijs.gg)
+
+[![My Skills](https://skills.thijs.gg/icons?i=mysql,sqlite)](https://skills.thijs.gg)
+
+[![My Skills](https://skills.thijs.gg/icons?i=git,github,aws,azure,docker,kubernetes,jenkins,terraform)](https://skills.thijs.gg)
 
 
 ## My values
