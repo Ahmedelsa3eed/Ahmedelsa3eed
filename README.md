@@ -11,7 +11,7 @@ Ahmed has working knowledge with:
 - languages: `Golang` `Java` `C/C++` `Python` `Typescript` `Bash`
 - frameworks: `Angular` `Spring Boot` `Node`
 - databases: `MySQL` `Postgresql`
-- tools: `AWS` `Azure` `Docker` `GitHub Actions` `Kubernetes` `Terraform` `Ansible`
+- tools: `AWS` `Azure` `GCP` `Docker` `GitHub Actions` `Kubernetes` `Terraform` `Ansible`
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ahmedelsa3eed)](https://git.io/streak-stats)
 
