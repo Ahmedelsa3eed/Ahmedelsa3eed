@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable infrastruct
   - **Monitoring:** `Prometheus`, `Grafana`, `ELK Stack`  
   - **Programming:** `Python`, `Bash`, `Golang`, `Java`, `C++`
   - **Databases:**  `MySQL`, `PostgreSQL`, `MongoDB`
-  - **Frameworks:** `Angular`, `Spring Boot`
+  - **Frameworks:** `HashiCorp Vault` `Angular`, `Spring Boot`
 
 ---
 
