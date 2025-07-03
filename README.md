@@ -10,13 +10,13 @@ Welcome to my GitHub profile! I'm passionate about building scalable infrastruct
 - 💼 Currently: DevOps Engineer at Obelion.ai  
 - 🌱 Learning: Advanced Kubernetes, Service Meshes (Istio), and Observability with Grafana and Prometheus.  
 - 🛠 Tech Stack:  
-  - **Cloud:** `AWS`, `GCP`, `Azure`  
-  - **Orchestration:** `Kubernetes` (EKS, GKE, AKS), `Docker Compose`  
-  - **Automation:** `Ansible`, `Terraform`, `GitHub Actions`  
+  - **Cloud:** `AWS`, `GCP`, `Azure`, `Alibaba Cloud`
+  - **Orchestration:** `Kubernetes` (EKS, GKE, AKS), `Docker Compose`
+  - **Automation:** `Ansible`, `Terraform`, `GitHub Actions`, `ArgoCD`
   - **Monitoring:** `Prometheus`, `Grafana`, `ELK Stack`  
   - **Programming:** `Python`, `Bash`, `Golang`, `Java`, `C++`
-  - **Databases:**  `MySQL`, `PostgreSQL`, `MongoDB`
-  - **Frameworks:** `HashiCorp Vault` `Angular`, `Spring Boot`
+  - **Databases:**  `MySQL`, `PostgreSQL`, `Neo4j`, `MongoDB`
+  - **Frameworks:** `HashiCorp Vault`, `Angular`, `Spring Boot`
 
 ---
 
