@@ -27,12 +27,18 @@ Welcome to my GitHub profile! I'm passionate about building scalable infrastruct
 
 ---
 
+## 📜 **Certifications**
+- 🎓 **Google Cloud Certified Professional Cloud Architect**
+- ☁️ **Google Cloud Certified Associate Cloud Engineer**
+
+---
+
 ## 🤝 **Let's Connect**
 - 🌐 **[Portfolio Website](https://ahmedelsa3eed.github.io/)**  
 - 💼 **[LinkedIn](https://www.linkedin.com/in/el-saeed/)**  
 
 ---
- 
+
 ![](https://komarev.com/ghpvc/?username=Ahmedelsa3eed)
 
 <!-- 
