@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable infrastruct
 ---
 
 ## 🤝 **Let's Connect**
-- 🌐 **[Portfolio Website](https://ahmedelsa3eed.github.io/)**  
+- 🌐 **[Portfolio](https://ahmedelsa3eed.github.io/)**  
 - 💼 **[LinkedIn](https://www.linkedin.com/in/el-saeed/)**  
 
 ---
